@@ -18,7 +18,7 @@ $str = "insert into Regtb (fname,lname,email,pass,cpass) values('" . $a . "','" 
 $con->query($str);
 $con->close();
 
-echo "na vandhuten nu sollu";
+echo "na dha andha paiyan";
 ?>
 
 <!-- $str="insert into Regtb (fname,lname,email,pass,cpass) values('" . $a ."','" . $b ."','" . $c ."','" . $d ."','" . $e ."')"; -->
